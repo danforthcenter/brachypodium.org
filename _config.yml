@@ -1,0 +1,9 @@
+# Site settings
+title: Brachypodium.org
+description: > # this means to ignore newlines until "baseurl:"
+  Brachypodium genomic resources database.
+#baseurl: "https://brachypodium.org" # site url
+baseurl: "http://brachypodium.org"
+
+# Build settings
+markdown: kramdown
